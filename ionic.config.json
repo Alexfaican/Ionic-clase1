@@ -1,0 +1,7 @@
+{
+  "name": "FristApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
